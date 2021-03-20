@@ -7,7 +7,7 @@ Perhaps not, but it does look pretty cool.
    <summary>"About Me.png"</summary>
    
    ### Input Image
-   
+   ![image](https://raw.githubusercontent.com/sirkevin813/ascii_code/main/images/About%20Me.png)
    
    ### Output
    ```
